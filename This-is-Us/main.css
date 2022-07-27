@@ -1,0 +1,35 @@
+nav {
+    background: #383a4e;
+}
+.bgg {
+    background: #e0e0e0;
+}
+object {
+    position: absolute;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 9vw;
+    background: url(https://media.giphy.com/media/l3vR1GwfgcZioWVCU/giphy.gif);
+    -webkit-background-clip: text;
+    background-size: cover;
+    color: transparent;
+    text-align: center;
+    position: absolute;
+    transform: rotate(11deg);
+}
+.welcm {
+    margin-top: 22%;
+    margin-left: 18%;
+}
+.hii {
+    background: #383a4e;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    margin-top: 56.2%;
+}
+
+.endcard {
+    background: #383a4e;
+}
